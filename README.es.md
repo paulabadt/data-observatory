@@ -10,6 +10,21 @@
 
 ---
 
+### ⚠️ Nota Importante sobre el Proyecto
+
+Este proyecto fue desarrollado de **manera particular e independiente** por el equipo SENSORY. El SENA (Servicio Nacional de Aprendizaje) **no intervino** en su conceptualización, desarrollo, implementación ni financiamiento.
+
+**Detalles de participación en el concurso:**
+- **Modalidad**: Sociedad Civil
+- **Nivel**: Avanzado
+- **Equipo**: Paula Andrea Abad y Diana Carolina Abad
+- **Institución**: Ninguna (proyecto independiente)
+- **Concurso**: Datos al Ecosistema 2025
+
+El equipo SENSORY asume total autoría y responsabilidad sobre todos los aspectos técnicos, metodológicos y de implementación de esta solución.
+
+---
+
 ## 📋 Tabla de Contenidos
 
 - [Resumen Ejecutivo](#-resumen-ejecutivo)
