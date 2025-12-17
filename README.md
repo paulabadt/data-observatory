@@ -1,12 +1,3 @@
-# 🧠 School Mental Health Observatory - Bogotá
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3.2-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.30-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
 ### 🎯 [**LIVE DEMO**](https://observatorio-salud-mental-bogota-2ynkrapsjostnmrxfcxbxz.streamlit.app/) | 📊 [**OPEN DATA**](https://herramientas.datos.gov.co/usos/observatorio-de-salud-mental-escolar-bogota)
 
 *AI-powered system for predictive analysis of mental health in school-age population*
