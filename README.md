@@ -10,6 +10,21 @@
 
 ---
 
+### ⚠️ Important Note About the Project
+
+This project was developed **independently and privately** by Team SENSORY. SENA (Servicio Nacional de Aprendizaje / National Learning Service) **did not participate** in its conceptualization, development, implementation, or funding.
+
+**Competition participation details:**
+- **Category**: Civil Society
+- **Level**: Advanced
+- **Team**: Paula Andrea Abad and Diana Carolina Abad
+- **Institution**: None (independent project)
+- **Competition**: Data to Ecosystem 2025
+
+Team SENSORY assumes complete authorship and responsibility for all technical, methodological, and implementation aspects of this solution.
+
+---
+
 ## 📋 Table of Contents
 
 - [Executive Summary](#-executive-summary)
