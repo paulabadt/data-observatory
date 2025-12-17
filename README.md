@@ -1,3 +1,5 @@
+<div align="center">
+  
 ### 🎯 [**LIVE DEMO**](https://observatorio-salud-mental-bogota-2ynkrapsjostnmrxfcxbxz.streamlit.app/) | 📊 [**OPEN DATA**](https://herramientas.datos.gov.co/usos/observatorio-de-salud-mental-escolar-bogota)
 
 *AI-powered system for predictive analysis of mental health in school-age population*
